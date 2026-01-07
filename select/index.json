@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "十戒（1984）",
+  "base_artist": "Ado",
+  "createdAt": "2026-01-07T13:29:18.662460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "十戒(1984)",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/01_十戒(1984)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "十戒(1984) - 2009リマスター",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/02_十戒(1984)_-_2009リマスター_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "十戒 (1984)",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/03_十戒_(1984)_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "十戒 (1984)",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/04_十戒_(1984)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "十戒（1984）",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/05_十戒(1984)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "十戒 (1984) - 2012 Remaster",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/06_十戒_(1984)_-_2012_Remaster_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "十戒 (1984)",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/07_十戒_(1984)_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "十戒（1984）",
+      "artist": "Nakamori, Akina",
+      "has_synced": true,
+      "path": "select/08_十戒(1984)_Nakamori,_Akina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "十戒(1984) - Jukkai (1984)",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/09_十戒(1984)_-_Jukkai_(1984)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "十戒 (1984)",
+      "artist": "Akina Nakamori (中森明菜)",
+      "has_synced": true,
+      "path": "select/10_十戒_(1984)_Akina_Nakamori_(中森明菜).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "十戒 (1984) (オリジナル・カラオケ)",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/11_十戒_(1984)_(オリジナル・カラオケ)_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "十戒(1984) <30th anniversary mix>",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/12_十戒(1984)__30th_anniversary_mix_中森明菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十戒(1984)",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_十戒(1984)_Ado.txt"
+    }
+  ]
+}
